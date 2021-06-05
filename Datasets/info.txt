@@ -1,0 +1,1 @@
+This folder consists of data about COVID-19 cases in Greece.
